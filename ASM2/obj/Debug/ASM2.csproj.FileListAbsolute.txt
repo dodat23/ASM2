@@ -1,0 +1,12 @@
+C:\ASM@\ASM2\ASM2\bin\Debug\ASM2.exe.config
+C:\ASM@\ASM2\ASM2\bin\Debug\ASM2.exe
+C:\ASM@\ASM2\ASM2\bin\Debug\ASM2.pdb
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.csproj.AssemblyReference.cache
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.Form1.resources
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.Form2.resources
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.Properties.Resources.resources
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.exe
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.pdb
+C:\ASM@\ASM2\ASM2\obj\Debug\ASM2.Form3.resources
